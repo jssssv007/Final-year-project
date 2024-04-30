@@ -1,1 +1,2 @@
-# Final-year-project
+# Project-Final-Year-
+Identification of Influential Nodes in Attributed Citation Network 
